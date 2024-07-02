@@ -14,3 +14,13 @@ print("document=",obj.__doc__)
 print("name=",abc.__name__)
 print("bases=",abc.__bases__)
 print("module=",obj.__module__)
+
+
+# output
+variable1= 23
+variable2= 14.67
+dictionary= {'v1': 23, 'v2': 14.67}
+document= None
+name= abc
+bases= (<class 'object'>,)
+module= __main__
